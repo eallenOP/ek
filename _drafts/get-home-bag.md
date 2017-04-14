@@ -58,3 +58,10 @@ A GHB wouldn't be complete without a bit of survival and medical gear. I have pa
 - BIC lighters
 - duct tape
 - waterproof matches
+- EDC
+  - torch
+  - knife
+  - multi-tool
+  - charger cable
+  - pen, pencil, sharpie
+  - [Rite in the Rain notebook](http://www.riteintherain.com/top-spiral-universal-tan-3x-5)
