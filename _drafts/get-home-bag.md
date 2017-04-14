@@ -33,6 +33,8 @@ The first consideration in this part of the world at this time of the year is th
 - spare warm socks
 - scarf
 - comfortable boots
+- plastic rain poncho
+
 This stuff actually takes up the majority of space in my GHB, but if I'm going to be on my feet for hours in terrible weather I'll be wearing it, not carrying it. That means the space this took up will be repurposed for carrying water and food (see next section).
 
 ### Rations
@@ -43,4 +45,16 @@ Apart from a little something to boost blood sugar, I haven't packed much in the
 - water purification tablets
 - [Nalgene bottle](https://www.nalgene.com/product/2179-0032/)
 - [Kleen Kanteen bottle](https://www.kleankanteen.com/collections/bottles/products/wide-mouth-40oz) (on desk)
+
 This way, I can purify and store water that I find (and boil it in the stainless steel Kleen Kanteen if necessary) and I have enough energy food to ward off the low-blood-suger-shakes for a little while. Additional rations would come from an aid centre if it got to that point, but water is sorted and people can survive without food for quite a while, despite getting hangry.
+
+### Survival gear
+A GHB wouldn't be complete without a bit of survival and medical gear. I have packed two kits that can be quickly removed, and in the case of the survival kit, attached to the body in case of separation from the bag. The contents of each kit is for antoher post. Apart from these modular kits, I feel it's a good idea to have bits and pieces packed in the bag itself as well, and I'm still deciding whether to rely on my EDC or duplicate some of that in the bag too.
+- survival and fire kit
+- first aid kit
+- dust masks
+- work gloves
+- light sticks
+- BIC lighters
+- duct tape
+- waterproof matches
