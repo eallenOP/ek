@@ -21,3 +21,26 @@ As we've [seen in our neck of the woods](https://nzhistory.govt.nz/culture/new-z
 [New Zealand Civil Defence](http://www.civildefence.govt.nz/) recommends having an emergency plan and the proper equipment and supplies to deal with disaster, both at home and at work. Building a full-on home disaster kit, whether it's a hard-core bug out bag or a big plastic bin in the basement, is a pretty daunting task. Not to mention pretty expensive.
 
 One thing I could recommend if you're dipping your toe in the emergency planning ocean is to start small with a get home bag. [One of our worst disasters](https://en.wikipedia.org/wiki/2011_Christchurch_earthquake) in recent times occured when people were at work, and many found themselves stranded away from home with no access to their personal posessions. If you think about how much time you spend at the office, you can see the high liklihood of being there during a storm, flood, earthquake or other event which cuts you off from your normal route home. A normal backpack under your desk with some vital backup gear could make the difference between a total crisis and a bad situation that you are nevertheless partly equipped to deal with.
+
+## Get Home Bag (GHB) gear list
+At this point it might be worth having a look at what the backpack tuced under my desk at work actually contains.
+
+### Clothing
+The first consideration in this part of the world at this time of the year is the sudden need to stay warm. Even if the day starts out with nice weather, it's pretty easy to find yourself very underdressed and stuck outside shivering. Make sure to pack both insulation and rain protection, but try to keep it compact.
+- wooly jumper
+- polyprop undershirt
+- warm hat and gloves
+- spare warm socks
+- scarf
+- comfortable boots
+This stuff actually takes up the majority of space in my GHB, but if I'm going to be on my feet for hours in terrible weather I'll be wearing it, not carrying it. That means the space this took up will be repurposed for carrying water and food (see next section).
+
+### Rations
+Apart from a little something to boost blood sugar, I haven't packed much in the way of food and water in my bag. Partly this is a space consideration, and partly it's based on observations of what people have experienced in recent events. It's also because I often pack a lunch for work anyway, and always have a water bottle on my desk. As such, the focus is on being able to make use of found and provided rations rather than packing my own.
+- trail mix
+- jelly beans
+- [Lifestraw](http://lifestraw.com/)
+- water purification tablets
+- [Nalgene bottle](https://www.nalgene.com/product/2179-0032/)
+- [Kleen Kanteen bottle](https://www.kleankanteen.com/collections/bottles/products/wide-mouth-40oz) (on desk)
+This way, I can purify and store water that I find (and boil it in the stainless steel Kleen Kanteen if necessary) and I have enough energy food to ward off the low-blood-suger-shakes for a little while. Additional rations would come from an aid centre if it got to that point, but water is sorted and people can survive without food for quite a while, despite getting hangry.
