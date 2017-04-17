@@ -68,6 +68,7 @@ A GHB wouldn't be complete without a bit of survival and medical gear. I have pa
   - charger cable
   - pen, pencil, sharpie
   - [Rite in the Rain notebook](http://www.riteintherain.com/top-spiral-universal-tan-3x-5)
+
 ![First aid and urban gear]({{ site.url }}/img/blog/ghb/fak.JPG)
 
 _Note: the images are arranged in the way the bag is packed, not as per the lists above._
