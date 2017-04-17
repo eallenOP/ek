@@ -24,7 +24,7 @@ One thing I could recommend if you're dipping your toe in the emergency planning
 At this point it might be worth having a look at what the backpack tuced under my desk at work actually contains.
 
 ### Clothing
-![/img/blog/ghb/bagmain.JPG](Main compartment - clothing)
+![../img/blog/ghb/bagmain.JPG](Main compartment - clothing)
 The first consideration in this part of the world at this time of the year is the sudden need to stay warm. Even if the day starts out with nice weather, it's pretty easy to find yourself very underdressed and stuck outside shivering. Make sure to pack both insulation and rain protection, but try to keep it compact.
 - wooly jumper
 - polyprop undershirt
@@ -35,10 +35,10 @@ The first consideration in this part of the world at this time of the year is th
 - plastic rain poncho
 
 This stuff actually takes up the majority of space in my GHB, but if I'm going to be on my feet for hours in terrible weather I'll be wearing it, not carrying it. That means the space this took up will be repurposed for carrying water and food (see next section).
-![/img/blog/ghb/clothes.JPG](clothes)
+![../img/blog/ghb/clothes.JPG](clothes)
 
 ### Rations
-![/img/blog/ghb/bagfront.JPG](Front compartment)
+![../img/blog/ghb/bagfront.JPG](Front compartment)
 Apart from a little something to boost blood sugar, I haven't packed much in the way of food and water in my bag. Partly this is a space consideration, and partly it's based on observations of what people have experienced in recent events. It's also because I often pack a lunch for work anyway, and always have a water bottle on my desk. As such, the focus is on being able to make use of found and provided rations rather than packing my own.
 - trail mix
 - jelly beans
@@ -48,10 +48,10 @@ Apart from a little something to boost blood sugar, I haven't packed much in the
 - [Kleen Kanteen bottle](https://www.kleankanteen.com/collections/bottles/products/wide-mouth-40oz) (on desk)
 
 This way, I can purify and store water that I find (and boil it in the stainless steel Kleen Kanteen if necessary) and I have enough energy food to ward off the low-blood-suger-shakes for a little while. Additional rations would come from an aid centre if it got to that point, but water is sorted and people can survive without food for quite a while, despite getting hangry.
-![/img/blog/ghb/survival.JPG](Rations and survival gear)
+![../img/blog/ghb/survival.JPG](Rations and survival gear)
 
 ### Survival gear
-![/img/blog/ghb/bagback.JPG](Back compartment)
+![../img/blog/ghb/bagback.JPG](Back compartment)
 A GHB wouldn't be complete without a bit of survival and medical gear. I have packed two kits that can be quickly removed, and in the case of the survival kit, attached to the body in case of separation from the bag. The contents of each kit is for antoher post. Apart from these modular kits, I feel it's a good idea to have bits and pieces packed in the bag itself as well, and I'm still deciding whether to rely on my EDC or duplicate some of that in the bag too.
 - survival and fire kit
 - first aid kit
@@ -68,6 +68,6 @@ A GHB wouldn't be complete without a bit of survival and medical gear. I have pa
   - charger cable
   - pen, pencil, sharpie
   - [Rite in the Rain notebook](http://www.riteintherain.com/top-spiral-universal-tan-3x-5)
-![/img/blog/ghb/fak.JPG](First aid and urban gear)
+![../img/blog/ghb/fak.JPG](First aid and urban gear)
 
 _Note: the images are arranged in the way the bag is packed, not as per the lists above._
