@@ -1,3 +1,16 @@
+/*
+Contents
+
+1. Layout
+2. Typography
+3. Blog
+
+*/
+
+/*************************************************************************
+1. Layout
+**************************************************************************/
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -12,6 +25,14 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+/*************************************************************************
+2. Typography
+**************************************************************************/
 a {
     text-decoration: none;
     color: #999;
@@ -19,20 +40,21 @@ a {
 a:hover {
     text-decoration: underline;
 }
+h1 h2 h3 h4 {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
 
+/*************************************************************************
+3. Blog
+**************************************************************************/
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
