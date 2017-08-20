@@ -1,4 +1,8 @@
-# Testing the Lifestraw
+---
+layout: post
+title: "Testing the Lifestraw"
+date: 2017-08-20
+---
 
 This week at work has been pretty good evidence that anything could happen at any time. "Anything" might not even be that big a deal sometimes, but it can still help to think ahead. On Tuesday morning, we all got an email that a boil water notice had been put in place for much of the central city. Long story short, we had all been drinking from a pond since probably Monday night.
 
