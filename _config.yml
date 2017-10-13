@@ -3,3 +3,5 @@ markdown: kramdown
 theme: "jekyll-theme-hydeout"
 title: ek.net.nz
 paginate: 3
+disqus:
+  shortname: ek
