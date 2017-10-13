@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Reviews
-category: review
+title: Tech
+category: tech
 ---
