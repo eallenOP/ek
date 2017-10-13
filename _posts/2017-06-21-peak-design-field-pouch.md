@@ -2,6 +2,7 @@
 layout: post
 title: "Peak Design Field Pouch Review"
 date: 2017-06-21
+categories: review
 ---
 
 I recently purchased the [Field Pouch](https://www.peakdesign.com/product/bags/field-pouch/) by Peak Design to use as a camera or accessory bag for my OM-D EM-10 mirrorless camera. Oddly enough, I haven't used it as much as I thought I would... until last week.
