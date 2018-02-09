@@ -4,6 +4,7 @@ Contents
 1. Layout
 2. Typography
 3. Blog
+4. Tables
 
 */
 
@@ -69,4 +70,15 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+/*************************************************************************
+4. Tables
+**************************************************************************/
+table {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
 }
