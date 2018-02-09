@@ -38,8 +38,10 @@ img {
 /*************************************************************************
 2. Typography
 **************************************************************************/
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+
 body {
-    font-family: Garamond, Adobe Garamond Pro;
+    font-family: Garamond, Adobe Garamond Pro,'EB Garamond', serif;
 }
 
 a {
